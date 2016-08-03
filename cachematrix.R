@@ -2,7 +2,7 @@
 ## The following functions can compute and cache the inverse of a matrix so 
 ## that they can be looked up later instead of recomputing the inverse.
 
-## Written by:P.Mousavi
+## Written by:PooriaM
 
 ## "makeCacheMatrix"function creates a special "matrix" object that can cache 
 ## its inverse.
